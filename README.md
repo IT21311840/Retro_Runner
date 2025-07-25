@@ -1,8 +1,3 @@
-
-Here's a creative, engaging, and descriptive README for your GitHub repository "Retro Runner":
-
----
-
 # 🕹️ **Retro Runner** 🎮
 
 Welcome to **Retro Runner**, an exhilarating 2D endless runner built with Unity! Race through vibrant retro-inspired worlds, dodge obstacles, blast enemies, and rack up a high score in this fast-paced adventure.
